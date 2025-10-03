@@ -10,10 +10,10 @@
 ## ✨ About Me
 
 - 🔭 I’m currently working on: **React Admin Panel & Kotlin Android Apps**
-- 🌱 Currently learning: **Jetpack Compose, REST API, and Tailwind**
-- 🧪 Interested in: **Digital Forensics & Mobile Security**
-- 📫 Reach me: **yuzarfaisal@email.com**
-- ⚡ Fun fact: I love fixing bugs more than writing features 😄
+- 🌱 Currently learning: **Quality Assurance (QC) dan Quality Control (QA), Data Analyst, and React.js**
+- 🧪 Interested in: **Digital Forensics, Mobile Security, Data Analyst, Web developer, UI/UX Design**
+- 📫 Reach me: **zayproject234@email.com**
+- ⚡ Fun fact: I prefer Data Analyst, UI/UX Design, and Web Developer or FrontEnd developer 😄�
 
 ---
 
