@@ -50,9 +50,9 @@
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/namamu)
-[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://instagram.com/namamu)
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube)](https://youtube.com/@namamu)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram)](https://www.instagram.com/yuzarr_?igsh=NzhncmJkbWg2NmJo)
+
 
 ---
 
