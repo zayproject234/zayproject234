@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on: **React Admin Panel & Kotlin Android Apps**
 - 🌱 Currently learning: **Quality Assurance (QC) dan Quality Control (QA), Data Analyst, and React.js**
 - 🧪 Interested in: **Digital Forensics, Mobile Security, Data Analyst, Web developer, UI/UX Design**
-- 📫 Reach me: **zayproject234@email.com**
+- 📫 Reach me: **zayproject234@gmail.com**
 - ⚡ Fun fact: I prefer Data Analyst, UI/UX Design, and Web Developer or FrontEnd developer 😄�
 
 ---
